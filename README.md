@@ -5,11 +5,6 @@ script>
 </script>
 
 <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/pure-min.css" integrity="sha384-nn4HPE8lTHyVtfCBi5yW9d20FjT8BJwUXyWZT9InLYax14RDjBj46LmSztkmNP9w" crossorigin="anonymous">
-<script>
-  $(document).ready(function() {
-$("#target1").addClass("animated bounce");
-  });
-</script>
 <h1 style="color:gray">Travel List</h1>
 <h2 id="target1"> 1. 玻利維亞-烏尤尼鹽湖(Bolivia Salar de Uyuni)</h2>
 <img src="https://i2.wp.com/www.tourlatin.com/wp-content/uploads/2017/02/uyuni01.jpg?resize=1170%2C775" alt="Author standing on a beach with two thumbs up. ">
